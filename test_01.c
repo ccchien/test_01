@@ -11,7 +11,7 @@ int main()
 	printf("%f\n", 1.2+2.5);
 	printf("%.16f\n", cos(2.0*M_PI/3.0));
 	printf("%s\n", name) ;
-	printf("-------------------------------");
+	printf("-------------------------------\n");
 	printf("%u\n", name) ;
 	printf("%c\n", name[5]);
 	printf("%s\n", name+3);
